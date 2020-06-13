@@ -1,6 +1,6 @@
 # LinguaBox
 This repository is dedicated to LinguaBox Android application.
-From my CapStone Project at Temple
+From CapStone Project at Temple
 
 ## Installation
 <p> Simply clone this repo to your computer. Open it on Android Studio, and then press "Run the project".   </p>
